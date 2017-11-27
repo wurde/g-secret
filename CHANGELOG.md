@@ -12,9 +12,9 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
-## YYYY-MM-DD, Version 0.1.0
+## 2017-11-27, Version 0.1.0
 
-* 1 minor enhancement:
+* 2 minor enhancements:
 
   * Initialized project
-
+  * Add LICENSE.txt and README.md

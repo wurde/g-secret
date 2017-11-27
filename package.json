@@ -1,10 +1,11 @@
 {
   "name": "g-secret",
   "version": "0.1.0",
-  "description": "Generate a secret hash",
+  "description": "Generate a secret hash.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --no-colors",
+    "test-watch": "mocha --watch --no-colors"
   },
   "repository": {
     "type": "git",
