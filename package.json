@@ -1,0 +1,27 @@
+{
+  "name": "g-secret",
+  "version": "0.1.0",
+  "description": "Generate a secret hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurde/g-secret.git"
+  },
+  "keywords": [
+    "secret",
+    "crypto",
+    "hash"
+  ],
+  "author": "Andy Bettisworth <andy@accreu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wurde/g-secret/issues"
+  },
+  "homepage": "https://github.com/wurde/g-secret#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
