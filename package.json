@@ -11,6 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/wurde/g-secret.git"
   },
+  "bin": {
+    "g_secret": "./index.js"
+  },
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE.txt",
+    "CHANGELOG.md",
+    "index.js",
+    "test.js"
+  ],
   "keywords": [
     "secret",
     "crypto",

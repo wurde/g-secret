@@ -8,8 +8,9 @@ Add the following to your `package.json` file to download the binary and
 setup an npm script to run the task.
 
 ```json
+./package.json
 "scripts": {
-  "g:secret": "./node_modules/.bin/g_secret",
+  "g:secret": "./node_modules/.bin/g_secret"
 },
 ```
 

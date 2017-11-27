@@ -12,6 +12,11 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+* 2 minor enhancements:
+
+  * Export index.js as binary g_secret
+  * Export project files
+
 ## 2017-11-27, Version 0.1.0
 
 * 2 minor enhancements:
