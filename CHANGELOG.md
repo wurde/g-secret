@@ -12,6 +12,13 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+## 2017-11-27, Version 1.0.0
+
+* 2 major enhancements:
+
+  * Generate secret hash
+  * Test usage of SHA512
+
 * 2 minor enhancements:
 
   * Export index.js as binary g_secret

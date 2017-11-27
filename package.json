@@ -1,6 +1,6 @@
 {
   "name": "g-secret",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Generate a secret hash.",
   "main": "index.js",
   "scripts": {
