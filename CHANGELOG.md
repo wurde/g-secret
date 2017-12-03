@@ -12,6 +12,10 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+* 1 bug fix:
+
+  * Remove duplicate packages.json directives
+
 ## 2017-11-27, Version 1.0.0
 
 * 2 major enhancements:
