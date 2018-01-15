@@ -1,5 +1,7 @@
 # g-secret
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wurde/g-secret.svg)](https://greenkeeper.io/)
+
 Generate a secret hash.
 
 ## Getting started
